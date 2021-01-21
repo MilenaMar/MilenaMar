@@ -6,4 +6,4 @@
 
  🌱 I’m currently learning Gatsby, GraphQL, and typescript. 
  
- 🚍 I am open for hire ! 
+ 🚍 ### open for hire ! 
